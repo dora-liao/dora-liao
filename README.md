@@ -28,9 +28,9 @@ Generates a custom soundtrack for your run by pulling pace and route data from t
 
 **Leadership & Community**
 - Break Through Tech - AI Fellow
-- BU Hack4Impact — Director of Events & Junior Development Team Lead (former Software Engineer)
-- BU Girls Who Code — Vice President (former Treasurer)
-- BostonHacks — Tech Team Head
-- BU Spark! — Learning Ambassador (TechTalk Lead) & Ignite Council Director
+- BU Hack4Impact - Director of Events & Junior Development Team Lead (former Software Engineer)
+- BU Girls Who Code - Vice President (former Treasurer)
+- BostonHacks - Tech Team Head
+- BU Spark! - Learning Ambassador (TechTalk Lead) & Ignite Council Director
 - BU Society of Asian Scientists and Engineers - Professional Development Chair
 - BU FORGE Design Studios - former Secretary & former UI/UX Intern
