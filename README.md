@@ -10,13 +10,16 @@ I'm a rising junior at Boston University studying Biomedical Engineering with a 
 
 **Featured Work**
 
-*Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology — arXiv:2602.16703 (2026)*
+*Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology - arXiv:2602.16703 (2026)*
+
 Contributing author on a study evaluating how LLM assistance affects novice performance on biology research tasks
 
 *Molecular Biology Wesbite*
+
 A React + Supabase web app that introduces the audience to biological wet-lab techniques in an interactive manner
 
-*RhythmRun — HackMIT*
+*RhythmRun - HackMIT*
+
 Generates a custom soundtrack for your run by pulling pace and route data from the Strava API into Suno AI
 
 **Tech Stack**
