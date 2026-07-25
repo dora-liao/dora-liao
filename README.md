@@ -6,17 +6,19 @@
 
 **About Me**
 
-I'm a rising junior at Boston University studying Biomedical Engineering with a minor in Computer Science. From synthetic biology research to pharma and AI, I'm interested in where biology, computation, technology, and entrepreneurship meet. This past summer, I interned at Ipsen Biopharmaceuticals, where I got hooked on one question: how can we leverage ML and data tools to make wet-lab research and clinical development faster and more rigorous? When I'm not in the lab, you can probably find me out for a run along the Esplanade or cafe hopping around Boston. Feel free to connect with me!
+I'm a rising junior at Boston University studying Biomedical Engineering with a minor in Computer Science, focused on where synthetic biology, computation, and machine learning meet. This past summer I interned at Ipsen Biopharmaceuticals, where I got hooked on one question: how can we use ML and data tools to make wet-lab research and clinical development faster and more rigorous?
+
+I'm especially interested in research and engineering work at the intersection of computational biology and ML - feel free to connect!
 
 **Featured Work**
 
 *Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology - arXiv:2602.16703 (2026)*
 
-Contributing author on a study evaluating how LLM assistance affects novice performance on biology research tasks
+Contributing author on a study evaluating how LLM assistance affects novice performance on biology research tasks.
 
 *Molecular Biology Wesbite*
 
-A React + Supabase web app that introduces the audience to biological wet-lab techniques in an interactive manner
+A React + Supabase web app that introduces the audience to biological wet-lab techniques in an interactive, hands-on way.
 
 *RhythmRun - HackMIT*
 
