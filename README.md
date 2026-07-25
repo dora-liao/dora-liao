@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dora Liao 👋</h1> <p align="center"> Biomedical Engineering @ Boston University
+<h1 align="center">Hi, I'm Dora Liao 👋</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/doraliao"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dliao@bu.edu"><img src="https://img.shields.io/badge/Email-dliao%40bu.edu-D14836?style=flat&logo=gmail&logoColor=white" /></a>
