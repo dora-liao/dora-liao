@@ -16,7 +16,7 @@ I'm especially interested in research and engineering work at the intersection o
 
 Contributing author on a study evaluating how LLM assistance affects novice performance on biology research tasks.
 
-*Molecular Biology Wesbite*
+*Molecular Biology Website*
 
 A React + Supabase web app that introduces the audience to biological wet-lab techniques in an interactive, hands-on way.
 
